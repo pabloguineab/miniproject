@@ -1,1 +1,1 @@
-# miniproject
+# Maths Miniproject
